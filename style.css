@@ -1,0 +1,46 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #FFF;
+}
+
+.wrapper {
+    width: 380px;
+    margin: auto;
+    margin-top: 58px;
+}
+
+form {
+    background-color: #F5F5F5;
+    padding: 45px;
+    color: #2B2B2B;
+}
+
+form input {
+    background-color: #FFF;
+    border: 1px solid #AAA;
+}
+
+#message {
+    background-color: #F5F5F5;
+    min-height: 240px;
+    padding: 45px;
+    color: #333;
+    border-top: 1px solid #D7D7D7;
+}
+
+.message-body {
+    background-color: #AAA;
+    color: #FFF;
+    font-size: 18px;
+    padding: 4px;
+    border: 1px solid #C7C7C7;
+}
+
+span {
+    color: #F0523F;
+}
